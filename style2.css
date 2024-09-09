@@ -1,0 +1,65 @@
+
+body, h1, p, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff; 
+    color: #333; 
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #4682b4; 
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    font-size: 16px;
+    padding: 10px;
+    width: 250px;
+    border: 2px solid #4682b4; 
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4682b4; 
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #4169e1; 
+}
+
+#temperatura {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4682b4;
+}
+
+button:active {
+    box-shadow: 0 4px #ccc;
+    transform: translateY(2px);
+}
+
+fieldset {
+    margin-top: 330px;
+    border-radius: 30px;
+    border-color: #3d68e7;
+}
+
+p {
+color: #071c5c;
+}

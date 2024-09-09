@@ -1,0 +1,40 @@
+h1 {
+    color: rgb(241, 199, 136);
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 570px;
+  
+}
+
+fieldset {
+    margin-top: 300px;
+    margin-left: 90px;
+    border-radius: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-top: 320px;
+    border-color: #a1e7f3ee;
+    border: 30px;
+    background-color: rgb(196, 248, 255);
+
+    
+}
+
+
+button {
+background-color: rgb(177, 235, 250);
+margin-left: 720px;
+border-radius: 30px;
+height: 40px;
+color: rgb(216, 163, 83);
+border: 10px;
+}
+
+div{
+    margin-left: 729px;
+    color: rgb(230, 165, 67);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+html {
+    background-image:url(img/pngtree-summer-flowers-cute-wallpaper-background-image_685544.jpg)
+}
